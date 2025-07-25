@@ -1,0 +1,1 @@
+print('Todo listo para iniciar')
